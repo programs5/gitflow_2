@@ -1,2 +1,2 @@
 bill-100_file.txt
-string
+bugfix string
